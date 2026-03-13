@@ -9,4 +9,4 @@ protobuf-decoder
 pycryptodome
 google-play-scraper
 python-cfonts
-git
+flask
