@@ -411,7 +411,7 @@ class CLIENT:
             await asyncio.sleep(reconnect_delay)
 
     async def MaiiiinE(self):
-        Uid, Pw = '4346385617', 'ROZER_45UPR_BY_SPIDEERIO_GAMING_2CVA2'
+        Uid, Pw = '4366901723', 'F168167C3C1BA46A000B873C94D273711CE2CE3F51277A9DAC8156668E361445'
 
         open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
         if not open_id or not access_token:
